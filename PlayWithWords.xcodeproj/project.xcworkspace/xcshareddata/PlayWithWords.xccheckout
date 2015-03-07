@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A4AD279F-9BBB-42FE-9482-9AE2F32C9B2A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PlayWithWords</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>885BFEBFDD31CA21B481C65638F4347C4FADECD1</key>
+		<string>https://github.com/nalinnatrajan/iKompassDay4-PlayWithWords.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PlayWithWords.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>885BFEBFDD31CA21B481C65638F4347C4FADECD1</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/nalinnatrajan/iKompassDay4-PlayWithWords.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>885BFEBFDD31CA21B481C65638F4347C4FADECD1</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>885BFEBFDD31CA21B481C65638F4347C4FADECD1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>iKompassDay4-PlayWithWords</string>
+		</dict>
+	</array>
+</dict>
+</plist>
